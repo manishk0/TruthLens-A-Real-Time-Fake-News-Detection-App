@@ -98,7 +98,7 @@ with st.expander("See Classification Report"):
 !rm -rf /root/.config/ngrok/ngrok.yml
 
 
-ngrok config add-authtoken 2x8T6Od20GYMymrblqk8NG3x80U_3qRu61kQRfACBYXKZ14gC
+!ngrok config add-authtoken 2x8T6Od20GYMymrblqk8NG3x80U_3qRu61kQRfACBYXKZ14gC
 from pyngrok import ngrok
 import time
 
