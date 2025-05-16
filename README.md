@@ -1,1 +1,1 @@
-# TruthLens-A-Real-Time-Fake-News-Detection-App
+# Factify-A-Real-Time-Fake-News-Detection-App
